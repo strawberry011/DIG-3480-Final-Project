@@ -12,4 +12,4 @@ We created a freeze function, which causes John Lemon to freeze. In order to unf
 
 What is your repository link? 
 
-What is your video link? 
+What is your video link? https://youtu.be/vJetvUUEPxQ
